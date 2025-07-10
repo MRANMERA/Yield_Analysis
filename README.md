@@ -45,8 +45,8 @@ This project was conducted as part of a summer internship under IDEAS, ISI Kolka
 
 | Notebook                        | Purpose                                                                        |
 | ------------------------------- | ------------------------------------------------------------------------------ |
-| `yield_analysis_EDA.ipynb`      | Exploratory analysis on merged datasets and basic feature inspection.          |
-| `yield_analysis_forecast.ipynb` | Full pipeline: reservoir forecasting → feature engineering → yield prediction. |
+| [yield_analysis_EDA.ipynb](https://colab.research.google.com/drive/1KEbuE1gvumeAPXGOoqB95bSSDmpxkCXH?usp=sharing)      | Exploratory analysis on merged datasets and basic feature inspection.          |
+| [yield_analysis_forecast.ipynb](https://colab.research.google.com/drive/1SH5RzczZVeEMcHxzh7emm7q_wrSjAaQi?usp=sharing) | Full pipeline: reservoir forecasting → feature engineering → yield prediction. |
 
 ---
 
