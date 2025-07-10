@@ -86,7 +86,7 @@ This repository is part of a ISI Kolkata IDEAS summer internship project. Detail
 
 ## **Contributors**
 
-* \[Anmol Gupta]
+* [Anmol Gupta](https://www.linkedin.com/in/statisticssensei/)
   
 ---
 
